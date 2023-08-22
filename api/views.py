@@ -22,3 +22,5 @@ class BotView(View):
 
     updater.start_polling()
     updater.idle()
+
+    
